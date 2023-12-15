@@ -36,6 +36,6 @@ Install a desktop version of [Ubuntu](https://ubuntu.com/download/desktop/thank-
 
 ### Installation
 
-Use the following link to directly download [Dawson OS]([https://drive.google.com/file/d/1l-Pu-A7CuW4Cd0-hQQSAk1WdTDUOFHIb/view?usp=drive_link](https://drive.google.com/file/d/1aw_cF3yWcQEzG99iWqzRa16XFaCzXwbI/view?usp=drive_link).
+Use the following link to directly download [Dawson OS]([https://drive.google.com/file/d/1l-Pu-A7CuW4Cd0-hQQSAk1WdTDUOFHIb/view?usp=drive_link](https://drive.google.com/file/d/1aw_cF3yWcQEzG99iWqzRa16XFaCzXwbI/view?usp=drive_link)).
 OR
 Since, this project in itself is a step-by-step guide on how to install DawsonOS, please refer to the [documentation](https://github.com/zlatin-tech/DawsonOS/blob/main/Documentation.docx) for the installation.
